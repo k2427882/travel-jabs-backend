@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { vaccineRouter} from "./routers/vaccinesRputer.js";
+import { vaccinesRouter} from "./routers/vaccinesRouter.js";
 
 const app = express();
 
